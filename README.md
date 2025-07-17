@@ -83,10 +83,8 @@ streamlit run app.py
 
     👤 Controle de acesso e autenticação de usuários
 
-🧑‍💻 Autor
-
-Feito com 💻 por Átila Barbosa Daniel
+Autor
+Átila Barbosa Daniel
 📄 Licença
-
 Este projeto está licenciado sob a MIT License.
 
