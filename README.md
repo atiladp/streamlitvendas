@@ -4,6 +4,7 @@ Este é um projeto de **dashboard interativo** para análise de vendas, constru�
 
 Atualmente, os dados são carregados a partir de um arquivo `.json` e manipulados com Pandas. A integração com banco de dados SQLite está planejada como próxima etapa.
 
+# TESTE DE MARK
 ---
 
 ## 🚀 Funcionalidades
